@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Serious",
+  "base_artist": "ニュー・ホープ・クラブ",
+  "createdAt": "2026-01-02T09:50:12.470368Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sometimes Not Serious",
+      "artist": "Night Lovell",
+      "has_synced": true,
+      "path": "select/01_Sometimes_Not_Serious_Night_Lovell.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Put a Spell on You (Full Vocal Serious Mix)",
+      "artist": "Sonique",
+      "has_synced": false,
+      "path": "select/02_I_Put_a_Spell_on_You_(Full_Vocal_Serious_Mix)_Sonique.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'm Serious",
+      "artist": "Clipse",
+      "has_synced": false,
+      "path": "select/03_I'm_Serious_Clipse.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Serious",
+      "artist": "The Whitest Boy Alive",
+      "has_synced": true,
+      "path": "select/04_Serious_The_Whitest_Boy_Alive.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "So Serious",
+      "artist": "Electric Light Orchestra",
+      "has_synced": true,
+      "path": "select/05_So_Serious_Electric_Light_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "12. So Serious",
+      "artist": "Electric Light Orchestra",
+      "has_synced": true,
+      "path": "select/06_12._So_Serious_Electric_Light_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Serious Slammin'",
+      "artist": "The Pointer Sisters",
+      "has_synced": false,
+      "path": "select/07_Serious_Slammin'_The_Pointer_Sisters.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Get Serious (Basement Boys Ground Level Mix)",
+      "artist": "Cut 'n' Move",
+      "has_synced": false,
+      "path": "select/08_Get_Serious_(Basement_Boys_Ground_Level_Mix)_Cut_'n'_Move.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Get Serious (Take No Crap)",
+      "artist": "Cut 'n' Move",
+      "has_synced": true,
+      "path": "select/09_Get_Serious_(Take_No_Crap)_Cut_'n'_Move.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Serious",
+      "artist": "Culture Beat",
+      "has_synced": false,
+      "path": "select/10_Serious_Culture_Beat.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Gained The World - Serious Music Remix",
+      "artist": "Morcheeba",
+      "has_synced": true,
+      "path": "select/11_Gained_The_World_-_Serious_Music_Remix_Morcheeba.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dick Serious",
+      "artist": "Butter 08",
+      "has_synced": false,
+      "path": "select/12_Dick_Serious_Butter_08.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "If You're Serious",
+      "artist": "The Chainsmokers",
+      "has_synced": true,
+      "path": "select/13_If_You're_Serious_The_Chainsmokers.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Serious",
+      "artist": "Fleur East",
+      "has_synced": true,
+      "path": "select/14_Serious_Fleur_East.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Serious (feat. Matt Corby)",
+      "artist": "Kygo feat. Matt Corby",
+      "has_synced": false,
+      "path": "select/15_Serious_(feat._Matt_Corby)_Kygo_feat._Matt_Corby.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Serious",
+      "artist": "New Hope Club",
+      "has_synced": false,
+      "path": "select/pl_01_Serious_New_Hope_Club.txt"
+    }
+  ]
+}
